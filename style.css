@@ -1,0 +1,220 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+}
+.logo{
+    width: 200px;
+    height: 60px;
+}
+.mynav-a{
+    text-transform: uppercase;
+    font-size: 16px;
+    font-weight: 600;
+    margin: 0px 10px;
+    color: black;
+    transition: 0.6s;
+}
+.mynav-a:hover{
+    color: rgb(49, 181, 9);
+    letter-spacing: 1px;
+}
+.mynav{
+    border-bottom:4px solid rgb(33, 130, 3) ;
+}
+#first{
+    background: rgb(255, 251, 251);
+}
+#first h2{
+    color: rgb(49, 181, 9);
+    font-size:55px;
+    text-transform: capitalize;
+    padding:10px 30px;
+    font-weight: 600;
+    margin-top: 110px;
+}
+#first p{
+    font-size: 22px;
+    text-transform: capitalize;
+    font-weight: 500;
+    padding:15px 30px;
+}
+.headbtn{
+    width: 250px;
+    height: 50px;
+    border-radius: 50px;
+    background-color: rgb(33, 130, 3);
+    margin: 0px 0px 30px 30px;
+}
+#second h2{
+    font-size: 50px;
+    text-transform: capitalize;
+    color: rgb(59, 170, 59);
+    font-weight: 600;
+    letter-spacing: 1px;
+    text-align: center;
+    margin-top: 20px;
+}
+.myhead{
+    font-size: 22px;
+    text-transform: capitalize;
+    font-weight: 600;
+    letter-spacing: 1px;
+    text-align: center;
+}
+#second h4{
+    font-size: 35px;
+    text-transform: capitalize;
+    font-weight: 600;
+    letter-spacing: 1px;
+    text-align: center;
+    margin: 18px 0px;
+}
+.mycard{
+    border-radius: 0 !important;
+    box-shadow:6px 5px 10px rgb(226, 226, 226);
+}
+.icon{
+    font-size: 50px;
+    padding: 10px;
+    color: rgb(49, 181, 9);
+}
+#third h2{
+    color: rgb(49, 181, 9);
+    font-size:40px;
+    text-transform: capitalize;
+    font-weight: 600;
+    margin: 30px 0px;
+}
+.about{
+    width: 100%;
+    height: 400px;
+    margin: 50px 0px 30px 0px ;
+
+}
+.mydiv{
+ padding: 50px 60px;
+ background: ghostwhite;
+ margin: 0px auto;
+}
+.headbtn1{
+    width: 150px;
+    height: 50px;
+    border-radius: 50px;
+    background-color: rgb(33, 130, 3);
+    margin: 20px 0px;
+}
+#fourth h2{
+    color: rgb(49, 181, 9);
+    font-size:37px;
+    text-transform: capitalize;
+    font-weight: 600;
+    margin-top: 140px;
+    margin-bottom: 15px;
+}
+#fourth p{
+    font-size: 22px;
+    text-transform: capitalize;
+    font-weight: 500;
+    padding:10px 40px;
+    text-align: center;
+}
+.headbtn2{
+    width: 150px;
+    height: 50px;
+    border-radius: 50px;
+    background-color: rgb(33, 130, 3);
+}
+.step{
+    background: linear-gradient(90deg, rgba(0,214,75,1) 36%, rgba(66,244,131,1) 100%);
+}
+#fifth h2{
+    color: #fff;
+    font-size: 40px;
+    text-transform: capitalize;
+    padding: 40px;
+    font-weight: 600;
+}
+.headbtn3{
+    width: 250px;
+    height: 50px;
+    border-radius: 50px;
+    background-color: rgb(249, 255, 247);
+    margin-right: 6em;
+    color:#000 ;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+#fifth p{
+    font-size: 20px;
+    padding: 45px;
+    line-height: 40px;
+}
+.step1{
+    background: rgb(19, 18, 18);
+}
+#fifth h6{
+    color: #fff;
+    font-size: 20px;
+    text-transform: capitalize;
+    padding: 40px;
+    font-weight: 600;
+}
+.icon1{
+    font-size: 20px;
+    padding:0px 20px;
+    color: rgb(192, 244, 167);
+}
+.mobile2{
+    height: 450px;
+    padding: 30px 0px;
+}
+.mobile{
+    height: 500px;
+    width: 20em;
+    padding: 40px 0px;
+}
+.review{
+    margin: 50px auto;
+    box-shadow: 6px 5px 10px rgb(219, 216, 216);
+}
+.users{
+    border-radius: 50%;
+}
+.formdiv{
+    margin:50px auto;
+    background-color: #fff;
+    padding:30px 30px ;
+    
+}
+#signup-form{
+    background: url(images/leaves.png);
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+}
+.headbtn4{
+    width: 250px;
+    height: 40px;
+    border-radius: 50px;
+    background-color: rgb(20, 170, 43);
+    margin-top: 10px;
+    text-transform: uppercase;
+    font-weight: 600;
+    letter-spacing: 2px;
+    color: #000;
+}
+#signup h6{
+    color: #fff;
+    font-size: 20px;
+    text-transform: capitalize;
+    padding: 40px;
+    font-weight: 600;
+}
+#login{
+    background: url(images/leaves.png);
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+    position: absolute;
+}
