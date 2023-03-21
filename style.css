@@ -3,9 +3,6 @@
     padding: 0;
     font-family: 'Roboto', sans-serif;
 }
-html{
-    scroll-behavior: smooth;
-}
 .logo{
     width: 200px;
     height: 60px;
